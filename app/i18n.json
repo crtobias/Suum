@@ -1,0 +1,266 @@
+{
+  "es": {
+    "nav": {
+      "services": "Servicios",
+      "portfolio": "Portfolio",
+      "contact": "Contacto",
+      "getStarted": "Comenzar"
+    },
+    "hero": {
+      "title": "Tecnología clara y humana para tu negocio",
+      "subtitle": "Acompañamiento, velocidad y calidad. siempre.",
+      "emailPlaceholder": "Tu Email",
+      "signUp": "Contáctanos",
+      "termsPolicy": "Términos",
+      "customerStory": "Historia de Cliente"
+    },
+    "cards": {
+      "momentum": {
+        "title": "Money Momentum",
+        "desc": "Optimiza tu crecimiento financiero con estrategias inteligentes."
+      },
+      "longTerm": {
+        "title": "Long-Term",
+        "desc": "Crea una trayectoria de crecimiento estable y duradera."
+      },
+      "focused": {
+        "title": "Enfocado",
+        "desc": "Logra tus objetivos específicos con precisión."
+      },
+      "fixedIncome": {
+        "title": "Ingresos Fijos",
+        "desc": "Retornos predecibles y constantes en tu inversión."
+      }
+    },
+    "services": {
+      "title": "Services",
+      "subtitle": "Ofrecemos un servicio adaptado a tus necesidades, problemas y recursos, creando soluciones hechas a medida para vos.",
+      "web": {
+        "title": "Desarrollo Web",
+        "desc": "Ideas y diseños pages profesionales\nAplicaciones web a medida\nProductos digitales robustos y escalables"
+      },
+      "mobile": {
+        "title": "Aplicaciones Mobiles",
+        "desc": "Desarrollo iOS y Android\nApps nativas y modernas\nSoluciones móviles que impactan"
+      },
+      "ai": {
+        "title": "Automatización con IA",
+        "desc": "Integra IA en tus procesos\nReduce tareas repetitivas y errores\nAhorra tiempo y recursos"
+      },
+      "custom": {
+        "title": "Sistemas Personalizados",
+        "desc": "¿No encuentras la solución perfecta?\nCreamos diferentes sistemas a medida\nSoluciones hechas para tu empresa"
+      }
+    },
+    "footer": {
+      "description": "En Suum, la tecnología es simple, cercana y hecha para vos.",
+      "company": "Empresa",
+      "about": "Sobre",
+      "services": "Servicios",
+      "portfolio": "Portfolio",
+      "legal": "Legal",
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "social": "Social",
+      "rights": "Todos los derechos reservados."
+    },
+    "portfolio": {
+      "title": "Proyectos Destacados",
+      "subtitle": "Mirá algunos de nuestros trabajos",
+      "projects": {
+        "project1": {
+          "title": "Aplicación de Gestión",
+          "category": "Desarrollo Web"
+        },
+        "project2": {
+          "title": "App Móvil de Ecommerce",
+          "category": "Aplicación Móvil"
+        },
+        "project3": {
+          "title": "Plataforma SaaS",
+          "category": "Backend"
+        },
+        "project4": {
+          "title": "Sistema de Automatización",
+          "category": "Sistemas"
+        }
+      }
+    },
+    "clients": {
+      "title": "Lo que dicen nuestros clientes",
+      "subtitle": "Testimonios reales de proyectos exitosos",
+      "client1": {
+        "name": "María González",
+        "company": "E-Commerce Plus",
+        "initials": "MG",
+        "testimonial": "Suum transformó nuestra idea en una plataforma increíble. La comunicación fue clara y el resultado superó nuestras expectativas."
+      },
+      "client2": {
+        "name": "Carlos Martínez",
+        "company": "FinTech Solutions",
+        "initials": "CM",
+        "testimonial": "Profesionales de primer nivel. Cumplieron todos los plazos y nos acompañaron en cada etapa del desarrollo con total transparencia."
+      },
+      "client3": {
+        "name": "Laura Fernández",
+        "company": "StartUp Innovadora",
+        "initials": "LF",
+        "testimonial": "La mejor decisión que tomamos. Entendieron nuestra visión y la hicieron realidad con tecnología de punta y un diseño impecable."
+      }
+    },
+    "contact": {
+      "title": "Hablemos de tu proyecto",
+      "subtitle": "Estamos listos para escucharte y ayudarte a hacer realidad tus ideas",
+      "form": {
+        "name": "Nombre",
+        "namePlaceholder": "Tu nombre completo",
+        "email": "Email",
+        "emailPlaceholder": "tu@email.com",
+        "phone": "Teléfono",
+        "phonePlaceholder": "+54 11 1234-5678",
+        "message": "Mensaje",
+        "messagePlaceholder": "Contanos sobre tu proyecto o idea...",
+        "submit": "Enviar Mensaje"
+      },
+      "info": {
+        "email": "hola@suum.com.ar",
+        "phone": "+54 9 11 1234-5678",
+        "location": "Buenos Aires, Argentina"
+      },
+      "successTitle": "¡Mensaje enviado!",
+      "successMessage": "Gracias por contactarnos. Te responderemos a la brevedad."
+    }
+  },
+  "en": {
+    "nav": {
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "contact": "Contact",
+      "getStarted": "Get Started"
+    },
+    "hero": {
+      "title": "Clear and human technology for your business",
+      "subtitle": "Support, speed and quality. always.",
+      "emailPlaceholder": "Your Email",
+      "signUp": "Contact us",
+      "termsPolicy": "Terms Policy",
+      "customerStory": "Customer Story"
+    },
+    "cards": {
+      "momentum": {
+        "title": "Money Momentum",
+        "desc": "Optimize your financial growth with smart strategies."
+      },
+      "longTerm": {
+        "title": "Long-Term",
+        "desc": "Create a stable, long-lasting growth trajectory."
+      },
+      "focused": {
+        "title": "Focused",
+        "desc": "Achieve your specific goals with precision."
+      },
+      "fixedIncome": {
+        "title": "Fixed Income",
+        "desc": "Steady, predictable returns on your investment."
+      }
+    },
+    "services": {
+      "title": "Services",
+      "subtitle": "We offer a service tailored to your needs, problems and resources, creating custom-made solutions for you.",
+      "web": {
+        "title": "Web Development",
+        "desc": "Professional page ideas and designs\nCustom web applications\nRobust and scalable digital products"
+      },
+      "mobile": {
+        "title": "Mobile Applications",
+        "desc": "iOS and Android development\nNative and modern apps\nImpactful mobile solutions"
+      },
+      "ai": {
+        "title": "AI Automation",
+        "desc": "Integrate AI into your processes\nReduce repetitive tasks and errors\nSave time and resources"
+      },
+      "custom": {
+        "title": "Custom Systems",
+        "desc": "Can't find the perfect solution?\nWe create different custom systems\nSolutions made for your company"
+      }
+    },
+    "footer": {
+      "description": "At Suum, technology is simple, close and made for you.",
+      "company": "Company",
+      "about": "About",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "legal": "Legal",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "social": "Social",
+      "rights": "All rights reserved."
+    },
+    "portfolio": {
+      "title": "Featured Projects",
+      "subtitle": "Check out some of our work",
+      "projects": {
+        "project1": {
+          "title": "Management Application",
+          "category": "Web Development"
+        },
+        "project2": {
+          "title": "Ecommerce Mobile App",
+          "category": "Mobile App"
+        },
+        "project3": {
+          "title": "SaaS Platform",
+          "category": "Backend"
+        },
+        "project4": {
+          "title": "Automation System",
+          "category": "Systems"
+        }
+      }
+    },
+    "clients": {
+      "title": "What our clients say",
+      "subtitle": "Real testimonials from successful projects",
+      "client1": {
+        "name": "María González",
+        "company": "E-Commerce Plus",
+        "initials": "MG",
+        "testimonial": "Suum transformed our idea into an amazing platform. Communication was clear and the result exceeded our expectations."
+      },
+      "client2": {
+        "name": "Carlos Martínez",
+        "company": "FinTech Solutions",
+        "initials": "CM",
+        "testimonial": "Top-notch professionals. They met all deadlines and supported us through every stage of development with complete transparency."
+      },
+      "client3": {
+        "name": "Laura Fernández",
+        "company": "Innovative StartUp",
+        "initials": "LF",
+        "testimonial": "The best decision we made. They understood our vision and made it a reality with cutting-edge technology and impeccable design."
+      }
+    },
+    "contact": {
+      "title": "Let's talk about your project",
+      "subtitle": "We're ready to listen and help you make your ideas a reality",
+      "form": {
+        "name": "Name",
+        "namePlaceholder": "Your full name",
+        "email": "Email",
+        "emailPlaceholder": "your@email.com",
+        "phone": "Phone",
+        "phonePlaceholder": "+1 (555) 123-4567",
+        "message": "Message",
+        "messagePlaceholder": "Tell us about your project or idea...",
+        "submit": "Send Message"
+      },
+      "info": {
+        "email": "hello@suum.com",
+        "phone": "+1 (555) 123-4567",
+        "location": "Buenos Aires, Argentina"
+      },
+      "successTitle": "Message sent!",
+      "successMessage": "Thank you for contacting us. We'll get back to you shortly."
+    }
+  }
+}
